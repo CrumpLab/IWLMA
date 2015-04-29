@@ -2,7 +2,7 @@ The International Workshop on Learning, Memory, and Attention (III) is a collabo
 
 ## Dates and Location
 
-![Image](../images/sciencebuilding.jpg?raw=true?class=inline?alt=hi)
+![Image](../images/sciencebuilding.jpg?raw=true&class=inline&alt=hi)
 **July 6-10, 2015**
 [Centro de Investigacion, Mente, Cerebro y Comportamiento, (Center for the Investigation of Mind, Brain and Behaviour)](http://cimcyc.ugr.es/?lang=en)
 
