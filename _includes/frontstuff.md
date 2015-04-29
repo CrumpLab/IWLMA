@@ -1,3 +1,6 @@
+---
+title: something
+---
 The International Workshop on Learning, Memory, and Attention (III) is a collaborative research initiative for developing integrative approaches to understanding relationships between learning, memory, and attention processes. The workshop consists of several paper sessions over the course of week.
 
 ## Dates and Location
