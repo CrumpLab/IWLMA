@@ -545,6 +545,12 @@ header a.button {
  right: 0;
  width: 300px;
  }
+ 
+aside img {
+	display: block;
+  height: 50px;
+  padding-left: 64px;
+}
 
 aside a.button {
   display: block;
