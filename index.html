@@ -33,7 +33,8 @@ summary: Conference website
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          {% include frontstuff.md %}
+          {% capture frontstuff %}{% include frontstuff.md %}{% endcapture %}
+{{ frontstuff  | markdownify }}
         </section>
 
         <aside id="sidebar">
