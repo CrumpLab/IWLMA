@@ -15,6 +15,6 @@ To be announced soon.
 ### Conference Organizers
 
 * [Bruce Milliken](https://www.science.mcmaster.ca/pnb/people/86-people-sp-716/191-dr-bruce-milliken.html), McMaster University, Hamilton, Ontario, Canada
-* [Juan Lupianez](http://neurocog-ugr.weebly.com/juan-lupiaacutentildeez.html), Universidad de Granada, Granada, Spain
+* [Juan Lupiáñez](http://neurocog-ugr.weebly.com/juan-lupiaacutentildeez.html), Universidad de Granada, Granada, Spain
 * [Matthew Crump](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=1059), Brooklyn College of CUNY, Brooklyn, NY, USA
 
